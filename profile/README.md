@@ -1,8 +1,10 @@
-## Hi there 👋
+## Jyver Fun
 
 <img src="jyverfunlogo.png" />
 
-<img src="jyverfunid.png" />
+## Единая система авторизации
+
+<img src="jyverid.png" />
 
 
 <!--
